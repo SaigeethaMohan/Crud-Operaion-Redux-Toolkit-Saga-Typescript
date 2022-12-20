@@ -1,0 +1,60 @@
+.flex-container{
+    background: #b7c3cd;
+    width: 100%;
+    max-width: 260px; 
+    padding: 25px 35px;
+    border-radius: 4px;
+    gap: 20px;
+    
+  }
+  
+ .field-content{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+   }
+
+  .err-input-border{
+    border: 2px solid red;
+   }
+  
+   label{
+    font-size: 18px;
+    font-weight: bold;
+   }
+
+   input{
+    border: none;
+    border-bottom: 2px solid #616161;
+    padding: 4px;
+    box-shadow: 0 8px 16px 0 rgb(0 0 0 / 18%), 0 6px 20px 0 rgb(0 0 0 / 26%);
+   }
+   textarea{
+    min-height: 50px;
+    border: none;
+    border-bottom: 2px solid #616161;
+    padding: 4px;
+    font-family: sans-serif;
+    box-shadow: 0 8px 16px 0 rgb(0 0 0 / 18%), 0 6px 20px 0 rgb(0 0 0 / 26%);
+   }
+   textarea:focus:active {
+    outline: none;
+    border-color: transparent;
+    border-bottom: 2px solid #1c87c9;
+    
+  }
+
+  textarea:hover{
+    box-shadow: 0 0 5pt 3.5pt #958f8f;
+  }
+   input:focus:active {
+      outline: none;
+      border-color: transparent;
+      border-bottom: 2px solid #1c87c9;
+    }
+    
+
+    input:hover{
+      box-shadow: 0 0 5pt 3.5pt #958f8f;
+    }
+

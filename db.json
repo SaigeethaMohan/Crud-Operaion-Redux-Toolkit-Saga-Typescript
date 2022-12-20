@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "email": "saigeetha2709@gmail.com",
+      "name": "saigeetha saravanan",
+      "address": "No: 4,\nAbith colony,\nSaidapet-678990"
+    },
+    {
+      "id": "2",
+      "email": "geetha2709@gmail.com",
+      "name": "geetha",
+      "address": "No: 5,\nBalaji street,\nBhavani-635301"
+    },
+    {
+      "id": "3",
+      "email": "saravanan@gmail.com",
+      "name": "saravanan",
+      "address": "No: 4,\nMeruku street,\nErode - 302382"
+    },
+    {
+      "id": "4",
+      "email": "mohan@gmail.com",
+      "name": "mohan",
+      "address": "No:5,\nMerkku Bharathi Nagar,\nChennai-645677"
+    },
+    {
+      "id": "5",
+      "email": "kalaiyarasi@gmail.com",
+      "name": "saigeetha s",
+      "address": "No: 4 abith colony,\nKarur-678899"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+body {
+  background-color: #034764;
+}
+
+.center-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.error-text-color {
+  color: red;
+}
+
+.error-message{
+  color: red;
+ }
+
+ .font-size-24{
+  font-size: 24px;
+ }
+.margin-container {
+  margin: 1% 8%;
+}
+
+.mleft {
+  margin-left: 20px;
+}
+
+.text-center-align{
+  text-align: center;
+}
+
+.is-flex{
+  display: flex;
+}
+
+.is-flex-direction-column{
+  flex-direction: column;
+}
+
+
+.box-shadow{
+  box-shadow: 0 8px 16px 0 rgb(0 0 0 / 21%), 0 6px 20px 0 rgb(0 0 0 / 39%);
+ }
+
+ .header-text-color{
+color: white;
+ }
+
+ .m-top-10{
+  margin-top: 10px
+ }
